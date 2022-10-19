@@ -90,6 +90,8 @@ a:active {
 
 .container {
     width: 960px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 h1,
