@@ -312,7 +312,7 @@ li {
     left: var(--header-logo-link-left);
 }
 
-nav .nav-link::before {
+.nav .nav-link::before {
     content: "";
     position: absolute;
     top: 0;
